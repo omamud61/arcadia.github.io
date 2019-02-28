@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="cssArcadeaII.css">
+		<title>
+			Arcadia II
+		</title>
+	</head>
+	<body>
+		<h4>
+			0 101 79439 961
+			<span style="float: right;">
+				arcadiagames@gmail.com
+			</span>
+		</h4>
+		
+		<h1>
+			ARCADIA
+		</h1>
+		
+		<div class="parallax"> </div>
+		
+		<h3>
+			welcome to Arcadia games, here we are striving to provide a high octane gaming experience. 
+		</h3>
+		
+		<a href="https://arcadeagames.github.io/games/webgl/WebGL/index.html">
+			<div class="parallax2"> </div>
+		</a>
+		
+		<a href="https://arcadeagames.github.io/games/webgl/WebGL/index.html">
+			<h3>
+				Two player Tanks
+			</h3>
+		</a>
+		
+	</body>
+</html>

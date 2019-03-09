@@ -28,9 +28,19 @@ h3{
 	font-size: 200%;
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	text-align: left;
+	vertical-align: top;
 }
 
 a{
+	text-decoration: none;
+}
+
+.game1 { 
+    	color: FF5E5E;
+    	background-image: url("tanksImg.JPG");
+    	height: 300%; 
+	width: 300%
+	font-family: "Century Gothic", "Times Roman", sans-serif;
 	text-decoration: none;
 }
 
@@ -47,12 +57,3 @@ a{
     	background-repeat: no-repeat;
     	background-size: cover;
 }*/
-
-.game1 { 
-    	color: FF5E5E;
-    	background-image: url("tanksImg.JPG");
-    	height: 300%; 
-	width: 300%
-	font-family: "Century Gothic", "Times Roman", sans-serif;
-	text-decoration: none;
-}

@@ -1,22 +1,21 @@
 body{
 	font-family: "Century Gothic", "Times Roman", sans-serif;
-	background-image: url("parallaxImg.jpg")
+	background-image: url("parallaxImg.jpg");
+	color: #FF5E5E;
 	/*background-position: center;*/
 	/*background-attachment: fixed;*/
 	/*background-size: cover;*/
 }
 
 h1{
-	color: #FF5E5E;
 	text-align: center;
 	/*300px*/
 	font-size: 950%;
 	/*150px*/
-	padding-bottom: 15%;
+	padding-bottom: 20%;
 }
 
 h3{
-	color: #FF5E5E;
 	font-size: 30px;
 	text-align: left;
 	padding-bottom: 150px;
@@ -28,19 +27,7 @@ h3{
 	/*30px*/
 	font-size: 200%;
 	font-family: "Century Gothic", "Times Roman", sans-serif;
-}
-
-.phoneNumber{
 	float: left;
-
-}
-
-.email{
-	float: right;
-}
-
-p{
-	color: #B8EF7O;
 }
 
 a{
@@ -59,18 +46,11 @@ a{
     	background-position: center;
     	background-repeat: no-repeat;
     	background-size: cover;
-}
-
-.parallax2 { 
-    	
-    	background-image: url("tanksImg.JPG");
-
-    	
-    	height: 600px; 
-
-    	
-    	background-attachment: fixed;
-    	background-position: center;
-    	background-repeat: no-repeat;
-    	background-size: cover;
 }*/
+
+.game1 { 
+    	color: FF5E5E;
+    	background-image: url("tanksImg.JPG");
+    	height: 300%; 
+	font-family: "Century Gothic", "Times Roman", sans-serif;
+}

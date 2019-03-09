@@ -3,7 +3,7 @@ body{
 	background-image: url("parallaxImg.jpg");
 	color: #FF5E5E;
 	/*background-position: center;*/
-	/*background-attachment: fixed;*/
+	background-attachment: fixed;
 	/*background-size: cover;*/
 }
 
@@ -12,7 +12,7 @@ h1{
 	/*300px*/
 	font-size: 950%;
 	/*150px*/
-	padding-bottom: 23%;
+	padding-bottom: 25%;
 }
 
 h3{

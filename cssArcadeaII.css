@@ -8,7 +8,7 @@ h1{
 	/*300px*/
 	font-size: 950%;
 	/*150px*/
-	padding-bottom: 12%;
+	padding-bottom: 15%;
 }
 
 h3{
@@ -22,7 +22,7 @@ h3{
 .header{
 	color: #FF5E5E;
 	/*30px*/
-	font-size: 100%;
+	font-size: 200%;
 }
 
 .phoneNumber{
@@ -47,7 +47,7 @@ a{
     	background-image: url("parallaxImg.jpg");
 
     	/*Set a height 600px*/
-    	height: 100%; 
+    	height: 25%; 
 
     	/*Create the parallax scrolling effect*/
     	background-attachment: fixed;
@@ -61,7 +61,7 @@ a{
     	background-image: url("tanksImg.JPG");
 
     	/*Set a height 600px*/
-    	height: 100%; 
+    	height: 25%; 
 
     	/*Create the parallax scrolling effect*/
     	background-attachment: fixed;

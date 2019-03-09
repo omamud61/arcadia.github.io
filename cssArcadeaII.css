@@ -38,8 +38,8 @@ a{
 .game1 { 
     	color: FF5E5E;
     	background-image: url("tanksImg.JPG");
-    	height: 300%; 
-	width: 300%
+    	height: 75%; 
+	width: 75%
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	text-decoration: none;
 }

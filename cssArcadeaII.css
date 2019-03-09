@@ -3,7 +3,7 @@ body{
 	background-image: url("parallaxImg.jpg")
 	/*background-position: center;*/
 	/*background-attachment: fixed;*/
-	background-size: cover;
+	/*background-size: cover;*/
 }
 
 h1{
@@ -47,14 +47,14 @@ a{
 	text-decoration: none;
 }
 
-.parallax { 
-    	/*The image*/
+/*.parallax { 
+    	
     	background-image: url("parallaxImg.jpg");
 
-    	/*Set a height 600px*/
-    	height: 25%; 
+    	
+    	height: 600px; 
 
-    	/*Create the parallax scrolling effect*/
+    	
     	background-attachment: fixed;
     	background-position: center;
     	background-repeat: no-repeat;
@@ -62,15 +62,15 @@ a{
 }
 
 .parallax2 { 
-    	/*The image*/
+    	
     	background-image: url("tanksImg.JPG");
 
-    	/*Set a height 600px*/
-    	height: 25%; 
+    	
+    	height: 600px; 
 
-    	/*Create the parallax scrolling effect*/
+    	
     	background-attachment: fixed;
     	background-position: center;
     	background-repeat: no-repeat;
     	background-size: cover;
-}
+}*/

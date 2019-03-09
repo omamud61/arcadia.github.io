@@ -37,8 +37,8 @@ a{
     	/*The image*/
     	background-image: url("parallaxImg.jpg");
 
-    	/*Set a height*/
-    	height: 600px; 
+    	/*Set a height 600px*/
+    	height: 100%; 
 
     	/*Create the parallax scrolling effect*/
     	background-attachment: fixed;
@@ -51,8 +51,8 @@ a{
     	/*The image*/
     	background-image: url("tanksImg.JPG");
 
-    	/*Set a height*/
-    	height: 600px; 
+    	/*Set a height 600px*/
+    	height: 100%; 
 
     	/*Create the parallax scrolling effect*/
     	background-attachment: fixed;

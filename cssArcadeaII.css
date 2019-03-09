@@ -12,7 +12,7 @@ h1{
 	/*300px*/
 	font-size: 950%;
 	/*150px*/
-	padding-bottom: 20%;
+	padding-bottom: 23%;
 }
 
 h3{
@@ -27,7 +27,7 @@ h3{
 	/*30px*/
 	font-size: 200%;
 	font-family: "Century Gothic", "Times Roman", sans-serif;
-	float: left;
+	text-align: left;
 }
 
 a{
@@ -52,5 +52,7 @@ a{
     	color: FF5E5E;
     	background-image: url("tanksImg.JPG");
     	height: 300%; 
+	width: 300%
 	font-family: "Century Gothic", "Times Roman", sans-serif;
+	text-decoration: none;
 }

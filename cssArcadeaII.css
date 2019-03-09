@@ -5,8 +5,10 @@ body{
 h1{
 	color: #FF5E5E;
 	text-align: center;
-	font-size: 300px;
-	padding-bottom: 150px;
+	//300px
+	font-size:50%;
+	//150px
+	padding-bottom: 25%;
 }
 
 h3{

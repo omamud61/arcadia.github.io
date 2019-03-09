@@ -1,5 +1,5 @@
 body{
-	font-family: Verdana;
+	font-family: "Century Gothic", "Times Roman", sans-serif;
 }
 
 h1{
@@ -23,6 +23,7 @@ h3{
 	color: #FF5E5E;
 	/*30px*/
 	font-size: 200%;
+	font-family: "Century Gothic", "Times Roman", sans-serif;
 }
 
 .phoneNumber{

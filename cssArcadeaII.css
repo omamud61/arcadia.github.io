@@ -1,5 +1,5 @@
 body{
-	font-family: "Century Gothic", "Times Roman", sans-serif;
+	font-family: "Verdana;
 	background-image: url("parallaxImg.jpg");
 	color: #FF5E5E;
 	background-position: center;
@@ -37,13 +37,14 @@ a{
 
 .game1 { 
     	color: FF5E5E;
-	font-family: "Century Gothic", "Times Roman", sans-serif;
+	font-family: Verdana;
 	text-decoration: none;
+	
 	
     	background-image: url("tanksImg.JPG");
 	background-position: center;
-    	height: 500%; 
-	width: 500%
+    	height: 100px; 
+	width: 100px;
 	
 }
 

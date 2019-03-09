@@ -1,12 +1,12 @@
 body{
-	/*font-family: Verdana;*/
+	font-family: Verdana;
 }
 
 h1{
 	color: #FF5E5E;
 	text-align: center;
 	/*300px*/
-	font-size:300px;
+	font-size:400%;
 	/*150px*/
 	padding-bottom: 150px;
 }

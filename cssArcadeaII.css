@@ -2,7 +2,7 @@ body{
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	background-image: url("parallaxImg.jpg");
 	color: #FF5E5E;
-	/*background-position: center;*/
+	background-position: center;
 	background-attachment: fixed;
 	/*background-size: cover;*/
 }
@@ -37,11 +37,14 @@ a{
 
 .game1 { 
     	color: FF5E5E;
-    	background-image: url("tanksImg.JPG");
-    	height: 75%; 
-	width: 75%
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	text-decoration: none;
+	
+    	background-image: url("tanksImg.JPG");
+	background-position: center;
+    	height: 500%; 
+	width: 500%
+	
 }
 
 /*.parallax { 

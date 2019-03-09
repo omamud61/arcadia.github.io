@@ -1,6 +1,8 @@
 body{
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	background-image: url("parallaxImg.jpg")
+	background-position: center;
+	background-attachment: fixed;
 }
 
 h1{

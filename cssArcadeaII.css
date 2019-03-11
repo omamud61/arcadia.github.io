@@ -1,11 +1,23 @@
-body{
-	font-family: Verdana;
-	background-image: url("parallaxImg.jpg");
-	color: #FF5E5E;
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	/*background-size: cover;*/
+@media (max-width: 2500px){
+        body{
+	        font-family: Verdana;
+	        background-image: url("");
+	        color: #FF5E5E;
+	        background-position: center;
+	        background-attachment: fixed;
+	        background-repeat: no-repeat;
+        }
+}
+
+@media (min-width: 2501px){
+        body{
+	        font-family: Verdana;
+	        background-image: url("parallaxImg.jpg");
+	        color: #FF5E5E;
+	        background-position: center;
+	        background-attachment: fixed;
+	        background-repeat: no-repeat;
+        }
 }
 
 h1{

@@ -5,6 +5,8 @@
 	        color: #FF5E5E;
 	        background-position: center;
 	        background-repeat: no-repeat;
+		height: 100%;
+		width: 100%;
         }
 }
 

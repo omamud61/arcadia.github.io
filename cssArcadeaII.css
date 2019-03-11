@@ -1,4 +1,4 @@
-@media (max-width: 1270px){
+@media screen and (max-width: 1270px){
         body{
 	        font-family: Verdana;
 	        color: #FF5E5E;
@@ -6,7 +6,7 @@
         }
 }
 
-@media (min-width: 1271px){
+@media screen and (min-width: 1271px){
         body{
 	        font-family: Verdana;
 	        background-image: url("parallaxImg.jpg");

@@ -19,6 +19,7 @@
 
 h1{
 	text-align: center;
+	float:center;
 	font-size: 950%;
 	padding-bottom: 25%;
 }
@@ -53,4 +54,14 @@ a{
     	height: 500px; 
 	width: 1200px;
 	
+}
+
+.footer{
+	padding-bottom: 50%;
+	color: #FF5E5E;
+	/*30px*/
+	font-size: 200%;
+	font-family: "Century Gothic", "Times Roman", sans-serif;
+	text-align: left;
+	vertical-align: bottom;
 }

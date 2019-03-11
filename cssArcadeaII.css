@@ -4,6 +4,15 @@
 	        color: #FF5E5E;
 		background-color: #FFAF5E;
         }
+	
+	.footer{
+		padding-bottom: 50%;
+		color: #FF5E5E;
+		/*30px*/
+		font-size: 200%;
+		font-family: "Century Gothic", "Times Roman", sans-serif;
+		vertical-align: bottom;
+	}
 }
 
 @media screen and (min-width: 1271px){
@@ -15,6 +24,13 @@
 	        background-attachment: fixed;
 	        background-repeat: no-repeat;
         }
+	
+	.footer{
+		color: #FF5E5E;
+		font-size: 200%;
+		font-family: "Century Gothic", "Times Roman", sans-serif;
+		vertical-align: bottom;
+	}
 }
 
 h1{
@@ -54,14 +70,4 @@ a{
     	height: 500px; 
 	width: 1200px;
 	
-}
-
-.footer{
-	padding-bottom: 50%;
-	color: #FF5E5E;
-	/*30px*/
-	font-size: 200%;
-	font-family: "Century Gothic", "Times Roman", sans-serif;
-	text-align: left;
-	vertical-align: bottom;
 }

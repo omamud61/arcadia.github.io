@@ -67,7 +67,9 @@ a{
 	
     	background-image: url("tanksImg.JPG");
 	background-position: center;
-    	height: 500px; 
-	width: 1200px;
+	/*500px*/
+    	height: 100%; 
+	/*1200px*/
+	width: 150%;
 	
 }

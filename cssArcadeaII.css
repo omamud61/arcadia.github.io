@@ -60,11 +60,6 @@ a{
 }
 
 .game1 { 
-    	color: FF5E5E;
-	font-family: Verdana;
-	text-decoration: none;
-	
-	
     	background-image: url("tanksImg.JPG");
 	background-position: center;
 	/*500px*/

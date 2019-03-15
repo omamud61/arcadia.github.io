@@ -3,9 +3,11 @@
 	        font-family: Verdana;
 	        color: #FF5E5E;
 		/*background-color: #add8e6;*/
-		background-image: url("9DD652F4-4049-4576-B49F-FEA61DE224D7.jpeg")
+		background-image: url("9DD652F4-4049-4576-B49F-FEA61DE224D7.jpeg");
 		background-position: center;
 		background-size: cover;
+		height: 100%;
+		width: 100%;
         }
 	
 	.footer{

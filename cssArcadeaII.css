@@ -2,7 +2,10 @@
         body{
 	        font-family: Verdana;
 	        color: #FF5E5E;
-		background-color: #add8e6;
+		/*background-color: #add8e6;*/
+		background-image: url("D22714C1-2F0E-4428-A6EC-9DE2BD045CB8.jpeg")
+		height: 100%;
+		width: 100%;
         }
 	
 	.footer{

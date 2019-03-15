@@ -2,7 +2,6 @@
         body{
 	        font-family: Verdana;
 	        color: #FF5E5E;
-		/*background-color: #add8e6;*/
 		background-image: url("9DD652F4-4049-4576-B49F-FEA61DE224D7.jpeg");
 		background-position: center;
 		background-size: cover;
@@ -13,7 +12,6 @@
 	.footer{
 		padding-bottom: 50%;
 		color: #FF5E5E;
-		/*30px*/
 		font-size: 200%;
 		font-family: "Century Gothic", "Times Roman", sans-serif;
 		vertical-align: bottom;
@@ -38,6 +36,15 @@
 	}
 }
 
+table{
+	width: 100%
+	border: 1px solid black;
+	
+	font-size: 150%
+	font-family: Verdana;
+	color: #FF5E5E;
+}
+
 h1{
 	text-align: center;
 	float:center;
@@ -53,7 +60,6 @@ h3{
 
 .header{
 	color: #FF5E5E;
-	/*30px*/
 	font-size: 200%;
 	font-family: "Century Gothic", "Times Roman", sans-serif;
 	text-align: left;
@@ -68,7 +74,6 @@ a{
     	background-image: url("tanksImg.JPG");
 	background-position: center;
 	
-	/*resize: both;*/
     	height: 500px;
 	max-width: 100%;
 	width: 100%px;
